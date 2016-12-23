@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CourseraTarea3</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="petagram">Petagram</string>
+    <string name="valoracion">Valoracion</string>
+</resources>
